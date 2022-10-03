@@ -24,6 +24,11 @@ import UseMemo from './componets/Hooks/UseMemo';
 import UseReducer from './componets/Hooks/CustomHooks/UseReducer';
 import CallHook from './componets/Hooks/CustomHooks/CallHook';
 import Callhook2 from './componets/Hooks/CustomHooks/CallHook2';
+import Footer from './MyApp/Footer';
+import Home from './MyApp/Home';
+import Header from './MyApp/Header';
+import Product from './MyApp/Product';
+import Categ from './MyApp/Categ';
 
 
 
@@ -61,8 +66,13 @@ function App() {
     {/* <UseRef/> */}
     {/* <UseMemo/>*/}
     {/* <UseReducer/>  */}
-    <CallHook/>
-    <Callhook2/>
+    {/* <CallHook/>
+    <Callhook2/> */}
+    <Header/>
+    <Home/>
+  <Product/>
+  <Categ/>
+    <Footer/>
     </div>
   );
 }
