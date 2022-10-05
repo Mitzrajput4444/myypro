@@ -29,6 +29,10 @@ import Home from './MyApp/Home';
 import Header from './MyApp/Header';
 import Product from './MyApp/Product';
 import Categ from './MyApp/Categ';
+import Header1 from './MyApp2/Header1';
+import Home1 from './MyApp2/Home1';
+import Product1 from './MyApp2/Product1';
+import Footer1 from './MyApp2/Footer1';
 
 
 
@@ -36,7 +40,7 @@ function App() {
   return (
     <div className="App">
       
-     <h1>My App</h1>
+     {/* <h1>My App</h1> */}
         {/* <ClassComp/>
       <ClassProps name="mitz"/>
       <ClassProps name="gohil"/>
@@ -68,11 +72,16 @@ function App() {
     {/* <UseReducer/>  */}
     {/* <CallHook/>
     <Callhook2/> */}
-    <Header/>
+    {/* <Header/>
     <Home/>
   <Product/>
   <Categ/>
-    <Footer/>
+    <Footer/> */}
+    <Header1/>
+    <Home1/>
+    <Product1/>
+    <Footer1/>
+
     </div>
   );
 }
