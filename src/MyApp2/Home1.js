@@ -9,7 +9,7 @@ export default function Home1(){
     
     <section className="slider_section ">
       <div className="slider_bg_box">
-        <img src="famm/images/slider-bg.jpg" alt />
+        <img src="famm/images/slider-bg.jpg"  alt="#" />
       </div>
       <div id="customCarousel1" className="carousel slide" data-ride="carousel">
         <div className="carousel-inner">
@@ -349,7 +349,7 @@ export default function Home1(){
     <div className="container">
       <div className="box">
         <div className="arrival_bg_box">
-          <img src="famm/images/arrival-bg.png" alt />
+          <img src="famm/images/arrival-bg.png"  alt="#" />
         </div>
         <div className="row">
           <div className="col-md-6 ml-auto">

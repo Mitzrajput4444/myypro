@@ -23,7 +23,7 @@ export default function Product1(){
               </div>
             </div>
             <div className="img-box">
-              <img src="famm/images/p1.png" alt />
+              <img src="famm/images/p1.png"  alt="#" />
             </div>
             <div className="detail-box">
               <h5>
@@ -48,7 +48,7 @@ export default function Product1(){
               </div>
             </div>
             <div className="img-box">
-              <img src="famm/images/p2.png" alt />
+              <img src="famm/images/p2.png"  alt="#" />
             </div>
             <div className="detail-box">
               <h5>
@@ -73,7 +73,7 @@ export default function Product1(){
               </div>
             </div>
             <div className="img-box">
-              <img src="famm/images/p3.png" alt />
+              <img src="famm/images/p3.png"  alt="#" />
             </div>
             <div className="detail-box">
               <h5>
@@ -98,7 +98,7 @@ export default function Product1(){
               </div>
             </div>
             <div className="img-box">
-              <img src="famm/images/p4.png" alt />
+              <img src="famm/images/p4.png"  alt="#" />
             </div>
             <div className="detail-box">
               <h5>
@@ -123,7 +123,7 @@ export default function Product1(){
               </div>
             </div>
             <div className="img-box">
-              <img src="famm/images/p5.png" alt />
+              <img src="famm/images/p5.png"  alt="#" />
             </div>
             <div className="detail-box">
               <h5>
@@ -148,7 +148,7 @@ export default function Product1(){
               </div>
             </div>
             <div className="img-box">
-              <img src="famm/images/p6.png" alt />
+              <img src="famm/images/p6.png"  alt="#" />
             </div>
             <div className="detail-box">
               <h5>
@@ -173,7 +173,7 @@ export default function Product1(){
               </div>
             </div>
             <div className="img-box">
-              <img src="famm/images/p7.png" alt />
+              <img src="famm/images/p7.png"  alt="#" />
             </div>
             <div className="detail-box">
               <h5>
@@ -198,7 +198,7 @@ export default function Product1(){
               </div>
             </div>
             <div className="img-box">
-              <img src="famm/images/p8.png" alt />
+              <img src="famm/images/p8.png"  alt="#" />
             </div>
             <div className="detail-box">
               <h5>
@@ -223,7 +223,7 @@ export default function Product1(){
               </div>
             </div>
             <div className="img-box">
-              <img src="famm/images/p9.png" alt />
+              <img src="famm/images/p9.png"  alt="#" />
             </div>
             <div className="detail-box">
               <h5>
@@ -248,7 +248,7 @@ export default function Product1(){
               </div>
             </div>
             <div className="img-box">
-              <img src="famm/images/p10.png" alt />
+              <img src="famm/images/p10.png"  alt="#" />
             </div>
             <div className="detail-box">
               <h5>
@@ -273,7 +273,7 @@ export default function Product1(){
               </div>
             </div>
             <div className="img-box">
-              <img src="famm/images/p11.png" alt />
+              <img src="famm/images/p11.png"  alt="#" />
             </div>
             <div className="detail-box">
               <h5>
@@ -298,7 +298,7 @@ export default function Product1(){
               </div>
             </div>
             <div className="img-box">
-              <img src="famm/images/p12.png" alt />
+              <img src="famm/images/p12.png"  alt="#" />
             </div>
             <div className="detail-box">
               <h5>
@@ -354,7 +354,7 @@ export default function Product1(){
               <div className="img_container">
                 <div className="img-box">
                   <div className="img_box-inner">
-                    <img src="famm/images/client.jpg" alt />
+                    <img src="famm/images/client.jpg"  alt="#" />
                   </div>
                 </div>
               </div>
@@ -376,7 +376,7 @@ export default function Product1(){
               <div className="img_container">
                 <div className="img-box">
                   <div className="img_box-inner">
-                    <img src="famm/images/client.jpg" alt />
+                    <img src="famm/images/client.jpg"  alt="#" />
                   </div>
                 </div>
               </div>
@@ -398,7 +398,7 @@ export default function Product1(){
               <div className="img_container">
                 <div className="img-box">
                   <div className="img_box-inner">
-                    <img src="famm/images/client.jpg" alt />
+                    <img src="famm/images/client.jpg"  alt="#" />
                   </div>
                 </div>
               </div>

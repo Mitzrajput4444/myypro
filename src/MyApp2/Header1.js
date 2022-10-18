@@ -1,35 +1,56 @@
 import {react} from 'react';
+import { LinkContainer } from 'react-router-bootstrap'
 export default function Header1(){
     return(
         <>
         <header className="header_section">
       <div className="container">
         <nav className="navbar navbar-expand-lg custom_nav-container ">
+          <LinkContainer to="/">
           <a className="navbar-brand" href="index.html"><img width={250} src="famm/images/logo.png" alt="#" /></a>
+          </LinkContainer>
           <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span className> </span>
           </button>
           <div className="collapse navbar-collapse" id="navbarSupportedContent">
             <ul className="navbar-nav">
+              <LinkContainer to="/">
               <li className="nav-item active">
-                <a className="nav-link" href="index.html">Home <span className="sr-only">(current)</span></a>
+                <a className="nav-link">Home <span className="sr-only">(current)</span></a>
               </li>
-              <li className="nav-item dropdown">
+              </LinkContainer>
+              {/* <li className="nav-item dropdown">
                 <a className="nav-link dropdown-toggle" href="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="true"> <span className="nav-label">Pages <span className="caret" /></span></a>
                 <ul className="dropdown-menu">
                   <li><a href="about.html">About</a></li>
                   <li><a href="testimonial.html">Testimonial</a></li>
                 </ul>
-              </li>
+              </li> */}
+              <LinkContainer to="/Product1">
               <li className="nav-item">
-                <a className="nav-link" href="product.html">Products</a>
+                <a className="nav-link">Products</a>
               </li>
+              </LinkContainer>
+          <LinkContainer to="/About1">
               <li className="nav-item">
-                <a className="nav-link" href="blog_list.html">Blog</a>
+                <a className="nav-link" >About</a>
               </li>
+          </LinkContainer>
+          <LinkContainer to="/ContactUs1"> 
               <li className="nav-item">
-                <a className="nav-link" href="contact.html">Contact</a>
+                <a className="nav-link" >Contact</a>
               </li>
+           </LinkContainer>
+           <LinkContainer to="/Login1"> 
+              <li className="nav-item">
+                <a className="nav-link">LogIn</a>
+              </li> 
+           </LinkContainer>
+           <LinkContainer to="/SignUp1">
+              <li className="nav-item">
+                <a className="nav-link">SignUP</a>
+              </li>
+           </LinkContainer>
               <li className="nav-item">
                 <a className="nav-link" href="#">
                   <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 456.029 456.029" style={{enableBackground: 'new 0 0 456.029 456.029'}} xmlSpace="preserve">
