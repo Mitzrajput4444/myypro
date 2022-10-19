@@ -3,7 +3,7 @@ import React from 'react'
 export default function SignUp1() {
   return (
     <>
-     <div className='container signup'>
+     <div className='container center'>
         <h1>SignUp Here</h1>
      <form>
      <div className="form-group">

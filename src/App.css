@@ -35,8 +35,43 @@
   }
 }
 .signup{
-  width: 50vh;
+  width: 70vh;
 }
-.signup h1{
+.center h1{
   text-align: center;
+}
+/* REact-styling */
+@import url('https://fonts.googleapis.com/css2?family=Comforter+Brush&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comforter+Brush&display=swap');
+
+
+.st-logo{
+    font-family: 'Comforter Brush', cursive;
+    color: rgb(15, 15, 88);
+}
+/* h2{
+    font-family: 'Comforter Brush', cursive;
+} */
+#root{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+.bg-white{
+    background-color: white;
+}
+.bg-black{
+    background-color:black;
+}
+.bg-green{
+    background-color: green;
+}
+.bg-pink{
+    background-color: palevioletred;
+}
+.bg-white{
+    background-color: white;
+}
+.bg-gray{
+    background-color: gray;
 }

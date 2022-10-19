@@ -41,6 +41,11 @@ export default function Header1(){
                 <a className="nav-link" >Contact</a>
               </li>
            </LinkContainer>
+           {/* <LinkContainer to="/single1">
+              <li className="nav-item">
+                <a className="nav-link">Single-Product</a>
+              </li>
+           </LinkContainer> */}
            <LinkContainer to="/Login1"> 
               <li className="nav-item">
                 <a className="nav-link">LogIn</a>
